@@ -1,0 +1,115 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "ojioadmin@gmail.com",
+      "name": "sankar",
+      "password": "Ojio@1",
+      "role": "admin",
+      "cart": []
+    },
+    {
+      "email": "sankarroyals3@gmail.com",
+      "name": "Mukesh",
+      "password": "Sankar@1",
+      "role": "user",
+      "id": 2,
+      "cart": []
+    },
+    {
+      "email": "sankar@gmail.com",
+      "name": "Sankar",
+      "password": "Sankar@1",
+      "role": "user",
+      "id": 3,
+      "cart": []
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "gray dressesss",
+      "details": "details of",
+      "category": "Women",
+      "cost": "2008",
+      "images": "https://tse3.mm.bing.net/th?id=OIP.Oy8NZaIxP6yfiywFOOzZkgHaIp&pid=Api&P=0"
+    },
+    {
+      "id": 3,
+      "name": "gray dress",
+      "details": "details of",
+      "category": "Men",
+      "cost": 200,
+      "images": "https://i1.wp.com/fasbest.com/wp-content/uploads/2017/08/Elegant-Mens-Formal-Wear-With-Tuxedo-And-Suits-31.jpg?fit=820%2C1231&ssl=1"
+    },
+    {
+      "id": 4,
+      "name": "gray dress",
+      "details": "details of",
+      "category": "Men",
+      "cost": 200,
+      "images": "https://i1.wp.com/fasbest.com/wp-content/uploads/2017/08/Elegant-Mens-Formal-Wear-With-Tuxedo-And-Suits-31.jpg?fit=820%2C1231&ssl=1"
+    },
+    {
+      "name": "gagh",
+      "details": "yfhvh",
+      "category": "Women",
+      "image": "",
+      "cost": "3000",
+      "images": "https://tse3.mm.bing.net/th?id=OIP.Oy8NZaIxP6yfiywFOOzZkgHaIp&pid=Api&P=0",
+      "oldcost": "3000",
+      "id": 5
+    }
+  ],
+  "cart": [],
+  "events": [
+    {
+      "name": "yjgwehbsd",
+      "discount": 0,
+      "start": "2022-12-24",
+      "end": "2022-12-29",
+      "coupon": [],
+      "id": 2
+    },
+    {
+      "name": "yjgwehbsd",
+      "discount": 0,
+      "start": "2022-12-24",
+      "end": "2022-12-29",
+      "coupon": [  {
+        "id": 1,
+        "name": "OJIO400",
+        "discount": 200
+      }],
+      "id": 3
+    },
+    {
+      "id": 4,
+      "coupon": [
+        {
+          "id": 1,
+          "name": "OJIO200",
+          "discount": 200
+        }
+      ],
+      "name": "ewfsdgggh",
+      "start": "2022-12-23",
+      "end": "2022-12-30"
+    }
+  ],
+  "coupons": [],
+  "category": [
+    {
+      "id": 1,
+      "name": "Men"
+    },
+    {
+      "id": 2,
+      "name": "Women"
+    },
+    {
+      "name": "ramm",
+      "id": 3
+    }
+  ]
+}

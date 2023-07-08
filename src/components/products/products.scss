@@ -1,0 +1,45 @@
+.cardAll{
+    padding:20px;
+    display: flex;
+    gap:10px;
+    flex-wrap: wrap;
+    
+    .card{
+        border:2px solid rgba(128, 128, 128, 0.151);
+        padding: 10px;
+        width: 250px;
+        height: 380px;
+        cursor: pointer;
+        &:hover{
+            border:2px solid rgba(128, 128, 128, 0.404);
+        }
+    }
+    }
+    .disIn{
+        padding:5px;
+        width: 100%;
+    }
+    .cardDefaultHome{
+        border:2px solid rgba(128, 128, 128, 0.151);
+        padding: 10px;
+        
+        cursor: pointer;
+        &:hover{
+            border:2px solid rgba(128, 128, 128, 0.404);
+        }
+    }
+ 
+.catIn{
+   &:focus{
+    border-bottom:2px solid #6439ff !important;
+   }
+}
+i{
+    cursor:pointer;
+}
+.navCat{
+    transition: all ease 0.3s;
+    &:hover{
+        transform: scaleX(1.1);
+    }
+}
